@@ -22,8 +22,6 @@
 
 <!-- ## Licence -->
 
-[MIT](https://github.com/tcnksm/tool/blob/master/LICENCE)
-
 ## Author
 
 [t-aono](https://github.com/t-aono)
